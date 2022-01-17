@@ -1,4 +1,5 @@
-# Fashion-MNIST-Classification
+# Fashion-MNIST-Classification 👔
+## By Jazlyn Lin
 
 ## Dataset: 
 Fashion-MNIST
