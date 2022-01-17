@@ -1,6 +1,7 @@
 # Fashion-MNIST-Classification
 
-## Dataset: Fashion-MNIST
+## Dataset: 
+Fashion-MNIST
 
 ## Steps:
 ### 1. Data Prepocessing including normalisation and PCA
